@@ -1,0 +1,3 @@
+build/*
+android/*
+src/main/java/io/grpc/examples/*
